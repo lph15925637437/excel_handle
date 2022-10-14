@@ -10,3 +10,8 @@ https://blog.csdn.net/HiBoyljw/article/details/81170802
 ```
 https://www.imooc.com/article/42008
 ```
+
+#下面的方式可以在不同poi依赖的情况下使用
+```
+https://blog.csdn.net/m0_57098080/article/details/124737035
+```
